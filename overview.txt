@@ -1,0 +1,14 @@
+AI-Based Phishing Email Detection
+
+Duration: Mar 2024 – Apr 2024
+
+Activities:
+- Studied common phishing email patterns
+- Applied basic AI concepts for email classification
+- Analyzed security risks related to phishing attacks
+
+Impact:
+Enhanced knowledge of AI-driven cybersecurity solutions.
+
+Conclusion:
+AI-based phishing detection can help reduce email-based cyber threats.
